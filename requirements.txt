@@ -1,0 +1,6 @@
+opencv-python
+pyzbar
+pydobot
+pandas
+openpyxl
+numpy
